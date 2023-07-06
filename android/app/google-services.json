@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638116734069",
+    "project_id": "fouzan-wo-tracker",
+    "storage_bucket": "fouzan-wo-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638116734069:android:f50fc23e594ce0c0f1043c",
+        "android_client_info": {
+          "package_name": "com.workout.workout_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638116734069-1ejaplisee1ug8f7tkd3url4c4833vmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBymyN9yDRNGoUF5GqHU7I7roseD1nfIQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638116734069-1ejaplisee1ug8f7tkd3url4c4833vmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
